@@ -79,6 +79,7 @@ class _HomePageState extends State<HomePage> {
                 ),
                 onPressed: () {
                   setState(() {
+                    showNav=false;
                     startGame(numberOfSquares);
                   });
                   Navigator.of(context).pop();
