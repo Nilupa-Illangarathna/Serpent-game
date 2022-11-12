@@ -1,16 +1,5 @@
 # snakegameflutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Start](https://user-images.githubusercontent.com/95247831/201473044-f5482d3f-1b32-4d4e-af9b-b1091f5491f6.jpg)
+![Playing](https://user-images.githubusercontent.com/95247831/201473047-dea43952-ddb3-425b-b1e7-1206e56c5696.jpg)
+![Losing](https://user-images.githubusercontent.com/95247831/201473048-6a5fa13b-7150-4528-a5f8-9c16e533ee86.jpg)
